@@ -1,0 +1,16 @@
+{
+  "name": "remindMe",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger Chatbot that remind about daily activies",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Harsh Singhal (http://harshsinghal.in)",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "0.8.1",
+    "node-wit": "4.0.0",
+    "request": "2.74.0",
+    "restify": "4.1.1"
+  }
+}
